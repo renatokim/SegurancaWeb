@@ -1,0 +1,5 @@
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Security\bin\Debug\Site.Security.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Security\bin\Debug\Site.Security.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Security\obj\Debug\Site.Security.csprojResolveAssemblyReference.cache
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Security\obj\Debug\Site.Security.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Security\obj\Debug\Site.Security.pdb

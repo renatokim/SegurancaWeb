@@ -1,0 +1,60 @@
+﻿@model Site.DTO.Chamado.DTOChamado
+
+@{
+    ViewBag.Title = "Create";
+}
+
+<h2>Create AntiCSRFConfig 10 segundos</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+
+    <fieldset>
+        <legend>DTOChamado</legend>
+
+        <input type="hidden" name="token" value="@ViewBag.Token">
+        
+
+        <h1>ValidateToken: @ViewBag.TokenValido</h1>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Assunto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Assunto)
+            @Html.ValidationMessageFor(model => model.Assunto)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Descricao)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Descricao)
+            @Html.ValidationMessageFor(model => model.Descricao)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Obs)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Obs)
+            @Html.ValidationMessageFor(model => model.Obs)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Comentario)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Comentario)
+            @Html.ValidationMessageFor(model => model.Comentario)
+        </div>
+
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

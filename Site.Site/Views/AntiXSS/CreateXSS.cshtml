@@ -1,0 +1,48 @@
+﻿@model Site.Site.ViewModel.ChamadoViewModel
+
+@{
+    ViewBag.Title = "CreateXSS";
+}
+
+<h2>AntiXSS</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <h6>&lt;img src="" onerror="alert('XSS')" /&gt;</h6>
+    <h6>&lt;script&gt;alert()&lt;/script&gt;</h6>
+    <h6>&lt;img src="" onerror="alert()" /&gt;</h6>
+    <h6>&lt;img src="" onerror="alert(document.cookie)" /&gt;</h6>
+    <h6>&lt;img class="imagemLivroNinja-principal" src="//cdn.shopify.com/s/files/1/0155/7645/products/zhQRY_vRi2-piaw5QkZpc552fcVQhN6fe4zLRb4fXV8_large.jpg?v=1486751361" alt="Livro de Zend Expressive" title="Livro de Zend Expressive"&gt;</h6>
+
+    <h1>@Html.Raw(Model.Descricao)</h1>
+    <h1>@Model.Descricao</h1>
+
+    <fieldset>
+        <legend>ChamadoViewModel</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Descricao)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Descricao)
+            @Html.ValidationMessageFor(model => model.Descricao)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ComXSS)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ComXSS)
+            @Html.ValidationMessageFor(model => model.ComXSS)
+        </div>
+        <p>
+            <input type="submit" value="Create" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

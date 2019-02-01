@@ -1,0 +1,44 @@
+﻿<h2>Create Invalid</h2>
+
+<form action="CreateInvalid" method="POST">
+    <input type="hidden" name="token" value="M5EOD4LAVtqMvStGW-yMu1sTz7UccruFeWoQFO4s6cpTyZJ30cUpQC4E8UOYYT_gzxKhZls7Lrac75fiUECzYFa1Z_L9AsOqhtt6_F73-6s1">
+    <input name="__RequestVerificationToken" type="hidden" value="gSw1NqIzXqH5p-JvtkHBfpqehb1a9D4GFY_VycLqAYDVYuX9mHF63i9yp8bGJbRe0qHEBj0HxaMfTWqQMrWfGh_0xl4S2w4dsCSzBkx_6Tg2">
+
+    <div class="editor-label">
+        <label for="Assunto">Assunto</label>
+    </div>
+    <div class="editor-field">
+        <input class="text-box single-line" id="Assunto" name="Assunto" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="Assunto" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="editor-label">
+        <label for="Descricao">Descricao</label>
+    </div>
+    <div class="editor-field">
+        <input class="text-box single-line" id="Descricao" name="Descricao" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="Descricao" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="editor-label">
+        <label for="Obs">Obs</label>
+    </div>
+    <div class="editor-field">
+        <input class="text-box single-line" id="Obs" name="Obs" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="Obs" data-valmsg-replace="true"></span>
+    </div>
+
+    <div class="editor-label">
+        <label for="Comentario">Comentario</label>
+    </div>
+    <div class="editor-field">
+        <input class="text-box single-line" id="Comentario" name="Comentario" type="text" value="">
+        <span class="field-validation-valid" data-valmsg-for="Comentario" data-valmsg-replace="true"></span>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Submit</button>
+</form>
+<br />
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

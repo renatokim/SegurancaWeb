@@ -1,0 +1,5 @@
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\maxiPago\bin\Debug\maxiPago.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\maxiPago\bin\Debug\maxiPago.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\maxiPago\obj\Debug\maxiPago.csprojResolveAssemblyReference.cache
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\maxiPago\obj\Debug\maxiPago.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\maxiPago\obj\Debug\maxiPago.pdb

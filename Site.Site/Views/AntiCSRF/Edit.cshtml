@@ -1,0 +1,74 @@
+﻿@model Site.DTO.Chamado.DTOChamado
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>DTOChamado</legend>
+
+        @Html.HiddenFor(model => model.Id)
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Data)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Data)
+            @Html.ValidationMessageFor(model => model.Data)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Assunto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Assunto)
+            @Html.ValidationMessageFor(model => model.Assunto)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Descricao)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Descricao)
+            @Html.ValidationMessageFor(model => model.Descricao)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Obs)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Obs)
+            @Html.ValidationMessageFor(model => model.Obs)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Horas)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Horas)
+            @Html.ValidationMessageFor(model => model.Horas)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Comentario)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Comentario)
+            @Html.ValidationMessageFor(model => model.Comentario)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>

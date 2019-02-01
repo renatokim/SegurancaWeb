@@ -1,0 +1,66 @@
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\Site\Site.Entidade\bin\Debug\Site.Entidade.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\Site\Site.Entidade\bin\Debug\Site.Entidade.pdb
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\Site\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\Site\Site.Entidade\obj\Debug\Site.Entidade.dll
+C:\Users\Renato\Documents\Visual Studio 2013\Projects\Site\Site.Entidade\obj\Debug\Site.Entidade.pdb
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.Entidade.dll
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.Entidade.pdb
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.ActiveRecords.dll
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.Enums.dll
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.ActiveRecords.pdb
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\bin\Debug\Site.Enums.pdb
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\obj\Debug\Site.Entidade.dll
+C:\Users\Renato\Desktop\Estoque\Site.Entidade\obj\Debug\Site.Entidade.pdb
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.Entidade.dll
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.Entidade.pdb
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.ActiveRecords.dll
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.Enums.dll
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.ActiveRecords.pdb
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\bin\Debug\Site.Enums.pdb
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\obj\Debug\Site.Entidade.dll
+C:\Users\Renato\Desktop\EstoqueWebFactory\Site.Entidade\obj\Debug\Site.Entidade.pdb
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.Entidade.dll
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.Entidade.pdb
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.ActiveRecords.dll
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.Enums.dll
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.ActiveRecords.pdb
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\bin\Debug\Site.Enums.pdb
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\obj\Debug\Site.Entidade.dll
+D:\PROJETOS CODIGOS VIDEOS\WebAPI\EstoqueWeb WebApi\Site.Entidade\obj\Debug\Site.Entidade.pdb
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Entidade.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Entidade.pdb
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\CloudrailSI.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.ActiveRecords.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.DTO.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Enums.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.ActiveRecords.pdb
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.DTO.pdb
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Enums.pdb
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.dll
+C:\Users\Rebato\Desktop\PocSistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Entidade.dll.config
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Entidade.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Entidade.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\CloudrailSI.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Newtonsoft.Json.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.ActiveRecords.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.DTO.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Enums.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Web.Cors.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Web.Http.Cors.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Web.Http.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.ActiveRecords.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.DTO.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Site.Enums.pdb
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\Newtonsoft.Json.xml
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Web.Http.xml
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\bin\Debug\System.Web.Http.Cors.xml
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.csprojResolveAssemblyReference.cache
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.dll
+C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Entidade\obj\Debug\Site.Entidade.pdb

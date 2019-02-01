@@ -1,0 +1,64 @@
+﻿@model Site.DTO.Chamado.DTOChamado
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<fieldset>
+    <legend>DTOChamado</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Data)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Data)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Assunto)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Assunto)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Descricao)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Descricao)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Obs)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Obs)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Horas)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Horas)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Comentario)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Comentario)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.Sistema)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.Sistema)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.Id }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
