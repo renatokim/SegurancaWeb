@@ -23,3 +23,9 @@ C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.ActiveRecords\bin\D
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.csprojResolveAssemblyReference.cache
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.dll
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\bin\Debug\Site.ActiveRecords.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\bin\Debug\Site.ActiveRecords.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\bin\Debug\CloudrailSI.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.ActiveRecords\obj\Debug\Site.ActiveRecords.pdb

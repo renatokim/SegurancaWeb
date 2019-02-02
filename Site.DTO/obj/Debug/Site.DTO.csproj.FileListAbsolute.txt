@@ -50,3 +50,11 @@ C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.DTO\bin\Debug\Site.
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.DTO\obj\Debug\Site.DTO.csprojResolveAssemblyReference.cache
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.DTO\obj\Debug\Site.DTO.dll
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.DTO\obj\Debug\Site.DTO.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\bin\Debug\Site.DTO.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\bin\Debug\Site.DTO.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\bin\Debug\CloudrailSI.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\bin\Debug\Site.Enums.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\bin\Debug\Site.Enums.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\obj\Debug\Site.DTO.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\obj\Debug\Site.DTO.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.DTO\obj\Debug\Site.DTO.pdb

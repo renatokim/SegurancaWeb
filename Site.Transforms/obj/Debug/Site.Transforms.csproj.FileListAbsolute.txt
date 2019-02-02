@@ -34,3 +34,12 @@ C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Transforms\bin\Debu
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Transforms\obj\Debug\Site.Transforms.csprojResolveAssemblyReference.cache
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Transforms\obj\Debug\Site.Transforms.dll
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Transforms\obj\Debug\Site.Transforms.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\Site.Transforms.dll.config
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\Site.Transforms.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\Site.Transforms.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\CloudrailSI.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\obj\Debug\Site.Transforms.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\obj\Debug\Site.Transforms.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Transforms\obj\Debug\Site.Transforms.pdb

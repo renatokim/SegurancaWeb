@@ -23,3 +23,9 @@ C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Enums\bin\Debug\Clo
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Enums\obj\Debug\Site.Enums.csprojResolveAssemblyReference.cache
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Enums\obj\Debug\Site.Enums.dll
 C:\Users\recruz\Desktop\SistemaControleLogistica-master\Site.Enums\obj\Debug\Site.Enums.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\bin\Debug\Site.Enums.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\bin\Debug\Site.Enums.pdb
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\bin\Debug\CloudrailSI.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\obj\Debug\Site.Enums.csprojResolveAssemblyReference.cache
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\obj\Debug\Site.Enums.dll
+C:\Users\Renato\Documents\GitHub\SegurancaWeb\Site.Enums\obj\Debug\Site.Enums.pdb
